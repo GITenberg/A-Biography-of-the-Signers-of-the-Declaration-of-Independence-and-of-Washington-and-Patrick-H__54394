@@ -1,5 +1,8 @@
 _repo: A-Biography-of-the-Signers-of-the-Declaration-of-Independence-and-of-Washington-and-Patrick-H__54394
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54394-h/images/cover.jpg
 creator:
   author:
     agent_name: Judson, L. Carroll (Levi Carroll)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '36807'
     url: http://www.gutenberg.org/2009/agents/36807
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54394#A-Biography-of-the-Signers-of-the-Declaration-of-Independence-and-of-Washington-and-Patrick-H_
 gutenberg_issued: '2017-03-20'
 gutenberg_type: Text
 identifiers:
